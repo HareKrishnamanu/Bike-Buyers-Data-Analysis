@@ -1,4 +1,5 @@
 Bike Buyers Data Analysis Project (PREPINSTA INTERNSHIP WEEK 1)
+Here's the link for the project : https://docs.google.com/spreadsheets/d/16orNXNZ46KKFN2vCnUOygYto2xqJb1gKstQF5zhcho8/edit?usp=sharing
 
 Overview :- This project aims to analyze a dataset containing information about bike buyers. The dataset includes various features such as ID, Maritial status, Gender, Income, Children, Education, Occupation, Home Owner, Cars, Commute Distance, Region, Age, Purchased Bikes and other relevant information. The goal is to extract insights and trends that can help businesses make informed decisions regarding their marketing strategies, product offerings, and customer engagement.
 
