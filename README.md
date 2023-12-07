@@ -24,7 +24,7 @@ The Duration of this project is from 3/12/23 to 9/12/23
 2) Analyzing the data
 3) Checking column stats
 4) Creating pivot tables
-5) Visualizing in google sheets charts
+5) Visualizing in google sheets charts & Creating Dashboards
 
 Tools Used:- Google Sheets
 
